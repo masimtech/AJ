@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
-figlet Hacker-Tool |lolcat
+figlet Aj |lolcat
 echo "Author - Muhammad Asim" |lolcat
 echo "################" |lolcat
 echo "github - https://github.com/masimtech" |lolcat
@@ -17,5 +17,5 @@ echo "---------------LIST TOOLS-------------"
 echo "########################################"
 echo ""
 echo ""
-python hacker-tool.py |lolcat
+python Aj.py |lolcat
 
