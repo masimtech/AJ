@@ -286,7 +286,7 @@ def main():
         os.system("mv HiddenEye /data/data/com.termux/files/home")
         print("GO TO TERMUX HOME DIRECTORY AND PASTE THE COMMANDS \n cd HiddenEye && chmod 777 HiddenEye.py && python3 HiddenEye.py")
     elif a==00:
-         os.system("./hacker-tool")
+         os.system("./Aj")
     else:
          print("invalid input")
 def hack():
@@ -327,7 +327,7 @@ def hack():
         os.system("mv LITEOTP /data/data/com.termux/files/home")
         print("GO TO TERMUX HOME DIRECTORY AND PASTE THE COMMANDS \n chmod +x $PREFIX/bin/lite && lite /foo/bar/test_list.txt")
     elif b==7:
-        os.system("./hacker-tool")
+        os.system("./Aj")
     else:
         print("invalid input")
 def a():
@@ -342,7 +342,7 @@ def a():
         os.system("git clone https://github.com/Neo-Oli/termux-ubuntu.git")
         print("GO TO TERMUX HOME DIRECTORY AND PASTE THE COMMANDS \n cd termux-ubuntu && sh ubuntu.sh && ./start.sh")
     elif c==00:
-        os.system("./hacker-tool")
+        os.system("./Aj")
     else:
         print("invalid input")
 while(1):
@@ -380,5 +380,5 @@ while(1):
         break
     else:
         print("INVALID INPUT")
-        os.system("./hacker-tool")
+        os.system("./Aj")
         continue
