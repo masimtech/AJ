@@ -1,15 +1,15 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 figlet Hacker-Tool |lolcat
-echo "Author - Aditya" |lolcat
+echo "Author - Muhammad Asim" |lolcat
 echo "################" |lolcat
-echo "github - https://github.com/TechnicalDangwal" |lolcat
+echo "github - https://github.com/masimtech" |lolcat
 echo "##########################################" |lolcat
-echo "My Youtube channel - Technical Dangwal" |lolcat
+echo "My Youtube channel - M Asim Tech" |lolcat
 echo "#####################################" |lolcat
 echo "DON'T FORGOT TO SUBCRIBE MY YOUTUBE CHANNEL" |lolcat
 echo "############################################" |lolcat
-echo "Do not copy or try to modify the codes" |lolcat
+echo "Let's Start" |lolcat
 echo "######################################" |lolcat
 echo ""
 echo "########################################"
